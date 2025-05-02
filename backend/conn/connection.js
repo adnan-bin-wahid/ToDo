@@ -12,4 +12,4 @@ const conn = async (req, res) => {
         });
     }
 };
-conn()
+conn();
